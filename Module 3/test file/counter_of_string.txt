@@ -1,0 +1,3 @@
+line size: 8
+file word size: 75
+file char size: 380
